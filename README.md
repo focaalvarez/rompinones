@@ -1,7 +1,7 @@
 # My name is rompinones
 
 <!--START_SECTION:update_image-->
-![alt text](https://raw.githubusercontent.com/focaalvarez/rompinones/main/.github/images/IMG_20220501_123031.jpgraw=true)
+![alt text](https://raw.githubusercontent.com/focaalvarez/rompinones/main/.github/images/MVIMG_20220205_114654.jpg?raw=true)
 <!--END_SECTION:update_image-->
 
 
