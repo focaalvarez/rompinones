@@ -25,7 +25,7 @@ inputs:
 
   WIDTH:
     description: "Give width of image"
-    default: "600px"
+    default: "300px"
     required: false
   
   HEIGHT:
