@@ -48,15 +48,15 @@ inputs:
     default: "Update Readme Image"
     required: false
     
-  OPTION:
-    description: "Option for quote, fun-fact or both, it can take - quote, funfact or both"
-    default: "both"
-    required: false
+#   OPTION:
+#     description: "Option for quote, fun-fact or both, it can take - quote, funfact or both"
+#     default: "both"
+#     required: false
 
-  COMMIT_MESSAGE:
-    description: "Add a commit message of your choice"
-    default: "Update with quote-readme"
-    required: false
+#   COMMIT_MESSAGE:
+#     description: "Add a commit message of your choice"
+#     default: "Update with quote-readme"
+#     required: false
 
 runs:
   using: "docker"
