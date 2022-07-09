@@ -130,11 +130,11 @@ def decode_readme(data: str) -> str:
 
 
 
-def generate_new_readme(readme: str, image_tag: str) -> str:
-    '''Generate a new Readme.md'''
-    update_readme_with = f"{START_COMMENT}\n{image_tag}\n{END_COMMENT}"
-"
-    return re.sub(IMAGE_REPL, update_readme_with, readme)
+# def generate_new_readme(readme: str, image_tag: str) -> str:
+#     '''Generate a new Readme.md'''
+#     update_readme_with = f"{START_COMMENT}\n{image_tag}\n{END_COMMENT}"
+# "
+#     return re.sub(IMAGE_REPL, update_readme_with, readme)
 
 def generate_new_readme2(readme: str, i_tag: str) -> str:
     """
@@ -153,7 +153,7 @@ if __name__ == "__main2__":
     except GithubException:
         print("Authentication Error. Try saving a GitHub Token in your Repo Secrets or Use the GitHub Actions Token, which is automatically used by the action.")
         sys.exit(1)
-    image_tag = get_image_tag(img_repo)
+#     image_tag = get_image_tag(img_repo)
     text_to_display = get_text_to_display()
     readme_obj = readme_repo.get_readme()
     readme_content = readme_obj.content
