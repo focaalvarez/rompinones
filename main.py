@@ -107,7 +107,6 @@ if __name__ == "__main__":
     g = Github(GHTOKEN)
     try:
         readme_repo = g.get_repo(REPO)
-        img_repo = g.get_repo(IMG_REPO)
     except GithubException:
         print("Authentication Error. Try saving a GitHub Token in your Repo Secrets or Use the GitHub Actions Token, which is automatically used by the action.")
         sys.exit(1)
