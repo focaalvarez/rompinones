@@ -14,5 +14,4 @@ jobs:
       - uses: focaalvarez/rompinones@main
         with:
           IMG_ALT: Image ALT
-        with:
-          IMG_PATH: focaalvarez/rompinones/images
+
