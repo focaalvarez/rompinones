@@ -103,7 +103,7 @@ def generate_new_readme2(readme: str, i_tag: str) -> str:
 
 
 
-if __name__ == "__main2__":
+if __name__ == "__main__":
     g = Github(GHTOKEN)
     try:
         readme_repo = g.get_repo(REPO)
