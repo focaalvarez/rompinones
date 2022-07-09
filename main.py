@@ -45,8 +45,8 @@ def get_image_tag(repo):
     if not is_image:
         sys.exit(1)
     img_src = image.download_url
-    #img_tag = f"<img src={img_src}  width={WIDTH} align={ALIGN} alt={IMG_ALT} />" #height={HEIGHT} width={WIDTH}
-    img_tag="![alt text]({img_src}raw=true)"
+    img_tag = f"<img src={img_src}  width={WIDTH} align={ALIGN} alt={IMG_ALT} />" #height={HEIGHT} width={WIDTH}
+    #img_tag="![alt text]({img_src}raw=true)"
     return img_tag
 
 def decode_readme(data: str) -> str:
