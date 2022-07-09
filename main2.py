@@ -12,48 +12,6 @@ import random
 from typing import List
 from github import Github, GithubException
 
-START_COMMENT = '<!--START_SECTION:update_image-->'
-END_COMMENT = '<!--END_SECTION:update_image-->'
-IMAGE_REPL = f"{START_COMMENT}[\\s\\S]+{END_COMMENT}"
-
-REPO = os.getenv("INPUT_README_REPOSITORY")
-IMG_REPO = os.getenv("INPUT_IMG_REPOSITORY")
-IMG_PATH = os.getenv("INPUT_IMG_PATH")
-GHTOKEN = os.getenv("INPUT_GH_TOKEN")
-COMMIT_MSG = os.getenv("INPUT_COMMIT_MESSAGE")
-WIDTH = os.getenv("INPUT_WIDTH")
-HEIGHT = os.getenv("INPUT_HEIGHT")
-ALIGN = os.getenv("INPUT_ALIGN")
-IMG_ALT = os.getenv("INPUT_IMG_ALT")
-
-VALID_IMAGES_EXT = ['png', 'jpg', 'jpeg', 'gif', 'svg']
-
-
-def verify_image_ext(image):
-    ''' Validate image obtained '''
-    global VALID_IMAGES_EXT
-    if image.path.split('/')[-1].split('.')[-1].lower() not in VALID_IMAGES_EXT:
-        print(f"Please make sure image is one of following type {VALID_IMAGES_EXT}, error caused by image - {image.path}")
-        return False
-    return True
-
-def get_image_tag(repo):
-    ''' Get new image tag <img> to place in README '''
-    global IMG_PATH
-    images = repo.get_contents(IMG_PATH)
-    image = random.choice(images)
-    is_image = verify_image_ext(image)
-    if not is_image:
-        sys.exit(1)
-    img_src = image.download_url
-    #img_tag = f"<img src={img_src}  width={WIDTH} align={ALIGN} alt={IMG_ALT} />" #height={HEIGHT} width={WIDTH}
-    img_tag=f"![alt text]({img_src}?raw=true)"
-    return img_tag
-
-def decode_readme(data: str) -> str:
-    '''Decode the contents of old readme'''
-    decoded_bytes = base64.b64decode(data)
-    return str(decoded_bytes, 'utf-8')
 
 
 ####################################################################
