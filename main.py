@@ -135,12 +135,12 @@ def generate_new_readme(readme: str, image_tag: str) -> str:
     update_readme_with = f"{START_COMMENT}\n{image_tag}\n{END_COMMENT}"
     return re.sub(IMAGE_REPL, update_readme_with, readme)
 
-# def generate_new_readme2(readme: str, i_tag: str) -> str:
-#     """
-#     Generate a new Readme.
-#     """
-#     update_readme_with = f"{STARTS_WITH}\n{i_tag}\n{ENDS_WITH}"
-#     return re.sub(REPL_PATTERN, update_readme_with, readme)
+def generate_new_readme2(readme: str, i_tag: str) -> str:
+    """
+    Generate a new Readme.
+    """
+    update_readme_with = f"{STARTS_WITH}\n{i_tag}\n{ENDS_WITH}"
+    return re.sub(REPL_PATTERN, update_readme_with, readme)
 
 
 
@@ -159,6 +159,29 @@ if __name__ == "__main__":
     readme_content_decoded = decode_readme(readme_content)
     new_readme = generate_new_readme(readme=readme_content_decoded, image_tag=image_tag)
 #     new_readme = generate_new_readme2(readme=readme_content_decoded,i_tag=text_to_display)
+    if readme_content_decoded != new_readme:
+        readme_repo.update_file(path=readme_obj.path, message=COMMIT_MSG,
+                             content=new_readme, sha=readme_obj.sha)
+        print("Success")
+    else:
+        print("No change")
+        
+ 
+if __name__ == "__main__":
+    g = Github(GHTOKEN)
+    try:
+        readme_repo = g.get_repo(REPO)
+        img_repo = g.get_repo(IMG_REPO)
+    except GithubException:
+        print("Authentication Error. Try saving a GitHub Token in your Repo Secrets or Use the GitHub Actions Token, which is automatically used by the action.")
+        sys.exit(1)
+    image_tag = get_image_tag(img_repo)
+    text_to_display = get_text_to_display()
+    readme_obj = readme_repo.get_readme()
+    readme_content = readme_obj.content
+    readme_content_decoded = decode_readme(readme_content)
+#     new_readme = generate_new_readme(readme=readme_content_decoded, image_tag=image_tag)
+    new_readme = generate_new_readme2(readme=readme_content_decoded,i_tag=text_to_display)
     if readme_content_decoded != new_readme:
         readme_repo.update_file(path=readme_obj.path, message=COMMIT_MSG,
                              content=new_readme, sha=readme_obj.sha)
