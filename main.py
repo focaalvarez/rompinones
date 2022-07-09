@@ -158,7 +158,7 @@ if __name__ == "__main__":
     readme_content = readme_obj.content
     readme_content_decoded = decode_readme(readme_content)
     new_readme = generate_new_readme(readme=readme_content_decoded, image_tag=image_tag)
-    new_readme2 = generate_new_readme2(readme=readme_content_decoded,i_tag=text_to_display)
+    new_readme = generate_new_readme2(readme=readme_content_decoded,i_tag=text_to_display)
     if readme_content_decoded != new_readme:
         readme_repo.update_file(path=readme_obj.path, message=COMMIT_MSG,
                              content=new_readme, sha=readme_obj.sha)
