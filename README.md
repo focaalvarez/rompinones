@@ -8,4 +8,4 @@
 ![alt text](https://raw.githubusercontent.com/focaalvarez/rompinones/main/.github/images/IMG_20220205_105738.jpg?raw=true)
 <!--END_SECTION:update_image-->
 
-Vuelve mañana para otra porción de sabiduría
+*Vuelve mañana para otra porción de sabiduría
