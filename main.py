@@ -133,7 +133,6 @@ def decode_readme(data: str) -> str:
 def generate_new_readme(readme: str, image_tag: str) -> str:
     '''Generate a new Readme.md'''
     update_readme_with = f"{START_COMMENT}\n{image_tag}\n{END_COMMENT}"
-"
     return re.sub(IMAGE_REPL, update_readme_with, readme)
 
 # def generate_new_readme2(readme: str, i_tag: str) -> str:
