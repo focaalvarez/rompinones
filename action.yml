@@ -48,10 +48,10 @@ inputs:
     default: "Update Readme Image"
     required: false
     
-#   OPTION:
-#     description: "Option for quote, fun-fact or both, it can take - quote, funfact or both"
-#     default: "both"
-#     required: false
+  OPTION:
+    description: "Option for quote, fun-fact or both, it can take - quote, funfact or both"
+    default: "quote"
+    required: false
 
 #   COMMIT_MESSAGE:
 #     description: "Add a commit message of your choice"
