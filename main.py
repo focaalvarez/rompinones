@@ -130,11 +130,11 @@ def decode_readme(data: str) -> str:
 
 
 
-def generate_new_readme(readme: str, image_tag: str,i_tag: str) -> str:
+def generate_new_readme(readme: str, image_tag: str) -> str:
     '''Generate a new Readme.md'''
     update_readme_with = f"{START_COMMENT}\n{image_tag}\n{END_COMMENT}"
-    update_readme_with2 = f"{STARTS_WITH}\n{i_tag}\n{ENDS_WITH}"
-    return re.sub(IMAGE_REPL, update_readme_with,REPL_PATTERN,update_readme_with2, readme)
+"
+    return re.sub(IMAGE_REPL, update_readme_with, readme)
 
 # def generate_new_readme2(readme: str, i_tag: str) -> str:
 #     """
@@ -158,7 +158,7 @@ if __name__ == "__main__":
     readme_obj = readme_repo.get_readme()
     readme_content = readme_obj.content
     readme_content_decoded = decode_readme(readme_content)
-    new_readme = generate_new_readme(readme=readme_content_decoded, image_tag=image_tag,i_tag=text_to_display)
+    new_readme = generate_new_readme(readme=readme_content_decoded, image_tag=image_tag)
 #     new_readme = generate_new_readme2(readme=readme_content_decoded,i_tag=text_to_display)
     if readme_content_decoded != new_readme:
         readme_repo.update_file(path=readme_obj.path, message=COMMIT_MSG,
