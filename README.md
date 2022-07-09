@@ -1,7 +1,7 @@
 # Hola, soy Rompñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Más feo que un remiendo en la corbata."❞</i>
+<i>❝"Más tapado que un huevo."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
