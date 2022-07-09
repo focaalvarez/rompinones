@@ -9,6 +9,7 @@ import sys
 import base64
 import requests
 import random
+from typing import List
 from github import Github, GithubException
 
 START_COMMENT = '<!--START_SECTION:update_image-->'
