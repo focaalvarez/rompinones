@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Más peligroso que Osama Bin Laden piloteando un avión."❞</i>
+<i>❝"Tan de malas que lo atropelló un carro con la llanta de repuesto."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
