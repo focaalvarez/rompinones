@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Tan de malas que lo atropelló un carro con la llanta de repuesto."❞</i>
+<i>❝"Produce más alegría una orden de captura."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
