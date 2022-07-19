@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Tan de malas que jugando ajedrez lo pateó el caballo."❞</i>
+<i>❝"Tenía la boca tan pequeña que para decir tres tenía que decir uno, uno, uno."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
