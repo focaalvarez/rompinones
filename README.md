@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Tenía la boca tan pequeña que para decir tres tenía que decir uno, uno, uno."❞</i>
+<i>❝"Más rota que enagua de pordiosera."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
