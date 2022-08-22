@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"En la tierra del ciego, el tuerto es rey"❞</i>
+<i>❝"Más sabe el diablo por viejo que  por diablo."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
