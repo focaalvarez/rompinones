@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Más rara que una monja vendiendo chance."❞</i>
+<i>❝"Más trajinada que la correa de la polea de una lavadora vieja."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
