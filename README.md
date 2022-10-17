@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Más peligroso que quitarle la novia a un guerrillero."❞</i>
+<i>❝"Tiene más problemas que el "Algebra de Baldor"."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
