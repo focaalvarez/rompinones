@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Tiene tanta plata que no hace el amor sino que lo compra hecho."❞</i>
+<i>❝"Tan de malas que se cayó de espaldas y se rompió el tabique."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
