@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Más ordinario que llegar con regalo a un velorio."❞</i>
+<i>❝"Tan pobre que no puede sostener ni una conversación."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
