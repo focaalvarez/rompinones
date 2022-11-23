@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Tan elegante que envolvía los tamales en papel regalo."❞</i>
+<i>❝"Más ordinario que un pesebre con casa de citas."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
