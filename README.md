@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Tiene más carne una tuerca."❞</i>
+<i>❝"Tan distraido que llevaba una hora frente al espejo tratando de acordarse en donde había visto esa cara."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
