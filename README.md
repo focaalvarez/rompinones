@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Tiene más futuro un submarino descapotable."❞</i>
+<i>❝"Al que le van a dar, le guardan"❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
