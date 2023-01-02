@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Más enamorado que un palomo azul.❞</i>
+<i>❝"Tan bruto que cree que "fornicar" es la competencia de "Mastercard"."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
