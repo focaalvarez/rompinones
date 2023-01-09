@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"No es que sea fea si no que tiene una belleza rarísima."❞</i>
+<i>❝"Más repugnante que un puré de espinillas."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
