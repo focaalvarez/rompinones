@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Tiene más ojos que una piña mal pelada."❞</i>
+<i>❝"Tiene una pecueca tan fuerte que se la pegó a la pata de la cama."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
