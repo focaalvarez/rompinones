@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Tan de malas que cuando llovió sopa él estaba con un tenedor."❞</i>
+<i>❝"Más dormido que pierna hinchada.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
