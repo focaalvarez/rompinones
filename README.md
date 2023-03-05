@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Más sabe el diablo por viejo que  por diablo."❞</i>
+<i>❝"Tiene tanta plata que no hace el amor sino que lo compra hecho."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
