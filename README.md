@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Tiene tantas arrugas en la frente que no se pone el sombrero sino que se lo enrosca."❞</i>
+<i>❝"Más peligroso que una puntilla en un tobogán."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
