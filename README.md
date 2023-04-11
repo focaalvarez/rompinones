@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Más vale libertad con pobreza que prisión con riqueza."❞</i>
+<i>❝"Más torcido que cabuya entre el bolsillo."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
