@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Tan flaca, tan flaca, que no tenía ni dedo gordo."❞</i>
+<i>❝“Don’t document the problem, fix it.”— Atli Björgvin Oddsson   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
