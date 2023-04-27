@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Don’t document the problem, fix it.”— Atli Björgvin Oddsson   ❞</i>
+<i>❝"Más viejo que un río."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
