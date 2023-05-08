@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Tan fea que lo da y se lo devuelven."❞</i>
+<i>❝"Tan de malas que jugando ajedrez lo pateó el caballo."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
