@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Tan de malas que se cayó de espaldas y se rompió el tabique."❞</i>
+<i>❝"Tan fea que lo da y se lo devuelven."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
