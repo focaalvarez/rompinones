@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Tan feo que cuando nació, el médico las palmadas se las dio fue a la mamá."❞</i>
+<i>❝"Más vale solo que mal acompañado"❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
