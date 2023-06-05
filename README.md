@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Tiene dientes tan grandes que no se rie para no rayar el piso."❞</i>
+<i>❝"Tan bocón que cuando se ríe se muerde las orejas."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
