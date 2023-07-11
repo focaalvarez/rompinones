@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Más hace una hormiga andando que un buey echado.❞</i>
+<i>❝“Getting information off the Internet is like taking a drink from a fire hydrant.”— Mitchell Kapor  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
