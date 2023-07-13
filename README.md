@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Tan pobre que no puede sostener ni una conversación."❞</i>
+<i>❝"Pide más que cura con dos parroquias."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
