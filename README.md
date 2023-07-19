@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Duerme más que un gato con anemia"❞</i>
+<i>❝"Tan feo que cuando nació, el médico las palmadas se las dio fue a la mamá."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
