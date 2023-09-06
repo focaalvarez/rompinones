@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Más rápido cae un mentiroso que un cojo."❞</i>
+<i>❝"Tiene una boca tan grande que puede cantar dos canciones al mismo tiempo."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
