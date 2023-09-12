@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Tan pobre que no tenía ni hambre."❞</i>
+<i>❝"Tan fea que cuándo se desviste los vecinos cierran las cortinas."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
