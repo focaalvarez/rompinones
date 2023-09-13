@@ -1,7 +1,7 @@
 # Hola, soy Rompiñones
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"Tan fea que cuándo se desviste los vecinos cierran las cortinas."❞</i>
+<i>❝"Más vale sano que pagarle al cirujano."❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:update_image-->
